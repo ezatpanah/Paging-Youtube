@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Hilt-Retrofit-Youtube/app/src/main/res/layout/activity_main.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Hilt-Retrofit-Youtube/app/src/main/res/layout/fragment_movie_detailes.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Hilt-Retrofit-Youtube/app/src/main/res/layout/fragment_movies.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Hilt-Retrofit-Youtube/app/src/main/res/layout/item_movies.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/rezatpanah/AndroidStudioProjects/Hilt-Retrofit-Youtube/app/src/main/res/drawable/bg_details.xml" value="0.1925" />
+        <entry key="..\:/Users/rezatpanah/AndroidStudioProjects/Hilt-Retrofit-Youtube/app/src/main/res/drawable/bg_main.xml" value="0.1925" />
+        <entry key="..\:/Users/rezatpanah/AndroidStudioProjects/Hilt-Retrofit-Youtube/app/src/main/res/layout/fragment_movie_detailes.xml" value="0.1" />
+        <entry key="..\:/Users/rezatpanah/AndroidStudioProjects/Hilt-Retrofit-Youtube/app/src/main/res/layout/item_movies.xml" value="0.1" />
+        <entry key="..\:/Users/rezatpanah/AndroidStudioProjects/HiltRetrofitYoutube/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/rezatpanah/AndroidStudioProjects/HiltRetrofitYoutube/app/src/main/res/layout/fragment_movie_detailes.xml" value="0.3484375" />
+        <entry key="..\:/Users/rezatpanah/AndroidStudioProjects/HiltRetrofitYoutube/app/src/main/res/layout/fragment_movies.xml" value="0.3484375" />
+        <entry key="..\:/Users/rezatpanah/AndroidStudioProjects/HiltRetrofitYoutube/app/src/main/res/layout/item_movies.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
