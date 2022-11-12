@@ -6,7 +6,7 @@ YouTube Video :
 <br>  
 <a href="https://youtu.be/ySPbJ7OCVEE" target="_blank"><img alt="Ezatpanah  Paging-Youtube" src="youtube-paging.jpg" width="60%"></a>
 <br>
-<a href="https://youtu.be/ySPbJ7OCVEE" target="_blank"><img alt="Ezatpanah  Paging-Youtube" src="https://miro.medium.com/max/600/1*Oxqf3EVNCuKMHcK_yCJWsQ.gif" width="60%"></a>
+<img alt="Ezatpanah  Paging-Youtube" src="https://miro.medium.com/max/600/1*Oxqf3EVNCuKMHcK_yCJWsQ.gif" width="60%">
 
 
 
