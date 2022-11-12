@@ -4,12 +4,12 @@
 
 YouTube Video :
 <br>  
-<a href="" target="_blank"><img alt="Ezatpanah  Paging-Youtube" src="youtube-paging.jpg" width="60%"></a>
+<a href="https://youtu.be/ySPbJ7OCVEE" target="_blank"><img alt="Ezatpanah  Paging-Youtube" src="youtube-paging.jpg" width="60%"></a>
 <br>
 
 Article on Medium:
 <br>
-
+https://androidgeek.co/how-to-implement-pagination-in-kotlin-retrofit-hilt-paging-baa620cf5b50
 <br>
 <br>
 
